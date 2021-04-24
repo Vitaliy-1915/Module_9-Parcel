@@ -17,10 +17,10 @@ new Typed('.js-typed-text', {
   smartBackspace: true // Default value
 });
 
-      tippy('#myButton', {
-        content: 'My tooltip!',
-        //  trigger: 'click',
-      });
+tippy('#myButton', {
+content: 'My tooltip!',
+//  trigger: 'click',
+});
 
 // console.log(add(5, 5));
 
