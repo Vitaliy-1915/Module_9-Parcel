@@ -23,6 +23,7 @@
     "sass": "^1.32.11"
   },
   "dependencies": {
+    "tippy.js": "^6.3.1",
     "typed.js": "^2.0.12"
   }
 }
